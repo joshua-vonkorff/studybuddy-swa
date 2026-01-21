@@ -8,5 +8,4 @@
     <h1>StudyBuddy</h1>
     <p>Azure Static Web Apps deployment test.</p>
   </body>
-</html># studybuddy-swa
-Static Web App repo for "study buddy" test project
+</html>
